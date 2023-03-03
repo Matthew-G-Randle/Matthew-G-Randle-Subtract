@@ -14,6 +14,7 @@ public class Lab {
      * @param b some decimal number
      * @return a minus b
      */
+    /* Arbitrary change since for some reason RevaturePro says I'm failing, even though labs are passing on here, in the hopes that commiting again will sort it out */
     public double sub(double a, double b){
         double c = (a - b);
         return c;
